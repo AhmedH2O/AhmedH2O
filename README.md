@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedH2O
+- 👋 Hi, I’m Ahmed Negm, Electronics and Communication Engineering Student
 - 👀 I’m interested in Python, Php, Javascript, C++, Sql, AWS, Azure, Ubuntu, CentOs.
 - 🌱 I’m currently learning Javascript, C++, AWS, CentOs.
 - 💞️ I’m looking to collaborate on Python or Php projects.
